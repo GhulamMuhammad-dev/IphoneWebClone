@@ -17,7 +17,7 @@ useGSAP(()=>{
 },[])
 
   return (
-    <div id="blue-box" className="w-[200px] h-[200px] rounded-xl bg-red-600">
+    <div id="blue-box" className="w-[200px] h-[200px] rounded-xl bg-blue-600">
       hlooo
     </div>
   )
