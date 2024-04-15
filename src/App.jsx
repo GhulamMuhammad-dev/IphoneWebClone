@@ -1,13 +1,12 @@
-import Balls from "./pages/Balls"
-import YellowBox from "./pages/YellowBox"
-import BlueBox from "./pages/blueBox"
+import Navbar from "./components/Navbar"
+
 
 
 export default function App() {
   return (
-   <div>
-   <Balls />
-    </div>
+   <main className="bg-black">
+    <Navbar />
+   </main>
  
   )
 }
